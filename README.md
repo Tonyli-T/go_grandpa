@@ -1,5 +1,5 @@
 # go_grandpa
 
-April 7
+Hey this is a side scroller game created by my fantasy.
 
-Adding more functions
+
